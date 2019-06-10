@@ -1,0 +1,82 @@
+#rodape{
+    clear: both;  /*apagar float*/
+    text-align: center;
+    padding: 30px 0;
+    font-size: 12px;
+    margin-top: 30px;
+    color: #999;
+    background-color: #1f1e1e;
+    width: 100%;
+	bottom: 0;
+    left: 0;
+     position: fixed;
+    
+}
+
+
+#tudo{
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+#but{
+    margin-bottom: 2%;
+    text-align: center;
+    
+}
+
+
+
+.box h3{
+    text-align: center;
+}
+
+.box table table-striped{
+    text-align: center;
+}
+.container{
+    background-color: darkgray;
+    margin-top: 3%;
+    border-radius: 16px;
+    height: auto;
+    width: 80%;
+    font-size:13px ;
+   
+    
+} 
+
+
+font-family: 'Istok Web', sans-serif;
+
+
+
+h3{
+   font-family: 'Saira', sans-serif;
+   
+}
+
+        input{
+            height: 30px;
+        }
+
+        #logo{ text-align: center;
+           width, height: 400px;
+            
+    
+}
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }

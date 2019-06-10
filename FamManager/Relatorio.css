@@ -1,0 +1,41 @@
+form{margin:10px auto;
+    width: 100%;
+   text-align: center
+}
+table{margin: 0 auto;
+    width:90%;
+    border:solid 1px;
+    text-align: center;
+    
+}
+.box{margin: 0px auto;
+    width: 95%;
+    border: solid 1px;
+    border-radius: 5px;
+}
+.bloco{display: inline;
+width: 80% }
+.bloco p{display: inline-block}
+h3{text-align: center}
+
+
+.save form{margin:0px auto;
+    width:100%;
+  display: inline-block
+}
+
+.container{
+    background-color: darkgray;
+    margin-top: 3%;
+    border-radius: 16px;
+    height:auto;
+    width: 80%;
+    font-size:13px ;
+    
+}        
+
+
+
+@media only screen and (max-width:1078px){
+    .bloco{display:block}
+}
