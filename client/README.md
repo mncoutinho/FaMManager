@@ -1,4 +1,4 @@
-# fammanager
+# client
 
 ## Project setup
 ```
